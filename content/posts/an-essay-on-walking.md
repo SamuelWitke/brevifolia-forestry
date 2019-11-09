@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31T22:43:31Z
+date: 2019-07-31T22:43:31.000+00:00
 title: An Essay on Walking
 author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
@@ -13,7 +13,7 @@ But the walking of which I speak has nothing in it akin to taking exercise, as i
 
 ![](/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg)
 
-Moreover, you must walk like a camel, which is said to be the only beast which ruminates when walking. When a traveller asked Wordsworth’s servant to show him her master’s study, she answered, “Here is his library, but his study is out of doors.
+, you must walk like a camel, which is said to be the only beast which ruminates when walking. When a traveller asked Wordsworth’s servant to show him her master’s study, she answered, “Here is his library, but his study is out of doors.
 
 Perhaps we should be more susceptible to some influences important to our intellectual and moral growth, if the sun had shone and the wind blown on us a little less; and no doubt it is a nice matter to proportion rightly the thick and thin skin. But methinks that is a scurf that will fall off fast enough,–that the natural remedy is to be found in the proportion which the night bears to the day, the winter to the summer, thought to experience. There will be so much the more air and sunshine in our thoughts. The callous palms of the laborer are conversant with finer tissues of self-respect and heroism, whose touch thrills the heart, than the languid fingers of idleness. That is mere sentimentality that lies abed by day and thinks itself white, far from the tan and callus of experience.
 
