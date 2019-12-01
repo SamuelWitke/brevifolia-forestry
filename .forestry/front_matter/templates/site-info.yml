@@ -16,5 +16,12 @@ fields:
 - type: text
   name: repository_url
   label: repository_url
+- name: test
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: test
 pages:
 - config.json
