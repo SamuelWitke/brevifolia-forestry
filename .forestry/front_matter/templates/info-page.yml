@@ -2,6 +2,11 @@
 label: Info Page
 hide_body: true
 fields:
+- name: profile_picture
+  type: file
+  config:
+    maxSize: 250
+  label: profile picture
 - name: description
   type: textarea
   default: ''
@@ -43,10 +48,5 @@ fields:
     color_format: Hex
   description: Enter info page background color
   default: "#B1BCBC"
-- name: profile_picture
-  type: file
-  config:
-    maxSize: 250
-  label: profile picture
 pages:
 - content/data/info.json
