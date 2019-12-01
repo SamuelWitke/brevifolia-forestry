@@ -7,6 +7,7 @@ fields:
   config:
     maxSize: 250
   label: profile picture
+  default: "/content/images/maksim-shutov-JOEvZOTfp64-unsplash.jpg"
 - name: description
   type: textarea
   default: ''
