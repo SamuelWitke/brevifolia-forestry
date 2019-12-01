@@ -10,7 +10,7 @@ fields:
   type: file
   config:
     maxSize: 250
-  label: profile Picture
+  label: profile picture
 - type: text
   name: description
   label: description
