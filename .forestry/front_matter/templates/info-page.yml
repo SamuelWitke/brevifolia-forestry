@@ -1,13 +1,14 @@
 ---
 label: Info Page
-hide_body: false
+hide_body: true
 fields:
 - name: profile_picture
   type: file
   config:
-    maxSize: 250
+    maxSize: '10'
   label: profile picture
   default: "/content/images/maksim-shutov-JOEvZOTfp64-unsplash.jpg"
+  description: Enter profile pic image for info page
 - name: description
   type: textarea
   default: ''
